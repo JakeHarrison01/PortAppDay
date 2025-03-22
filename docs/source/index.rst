@@ -1,4 +1,4 @@
-Welcome to Jakes Coding Space!
+Hello There!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This be a note
 
 Contents
 --------
